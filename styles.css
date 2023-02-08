@@ -1,0 +1,41 @@
+body{font-family: 'Roboto';
+     text-align: justify;
+}
+h2{
+	font-size: 40px;
+    color: rgba(112, 7, 7, 0.733);
+	text-align: center;
+    padding-bottom: 30px;
+}
+nav li {
+    display: inline;}
+    nav{font-size: 20px;
+        text-align: center;
+        text-size-adjust: bold;
+        background-color:rgb(201, 202, 202);}
+h4{
+    font-size: 20px;
+    color: rgb(9, 59, 102);
+}
+
+img{
+    width:1000px;
+    height:500px;
+    margin: 20px 300px 20px 120px;
+}
+article{
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+  }
+  iframe{
+    width:1000px;
+    height:500px;
+    margin: 20px 300px 20px 120px;
+  }
+
+footer{color: rgb(104, 105, 105);
+        background-color: rgb(201, 202, 202);
+      }
+      
